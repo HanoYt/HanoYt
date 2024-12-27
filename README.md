@@ -1,8 +1,8 @@
-# 👋 Salut, je suis Noah
+# 👋 Hi, I'm Noah
 
-🎓 Étudiant en informatique
+🎓 Computer Science Student
 
-## 💻 Langages en cours d'apprentissage
+## 💻 Currently Learning
 - C/C++ 🔧
 - Java ☕
 - HTML/CSS/JS 🚀
@@ -11,4 +11,4 @@
 @wilohx on Discord, i don't bite..
 
 ---
-🌱 *En constant apprentissage*
+🌱 *Always learning*
