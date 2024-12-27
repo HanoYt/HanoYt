@@ -8,7 +8,7 @@
 - HTML/CSS/JS 🚀
 
 ## 📫 Contact
-@wilohx on Discord, i don't bite..
+[@wilohx](https://discord.com/users/wilohx) on Discord, i don't bite..
 
 ---
 🌱 *Always learning*
