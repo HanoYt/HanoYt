@@ -1,18 +1,27 @@
-## Hi there 👋
+# 👋 Salut, je suis Noah
 
-<!--
-**HanoYt/HanoYt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en informatique passionné par le développement et toujours en quête d'apprentissage !
 
-Here are some ideas to get you started:
+## 🌱 En cours d'apprentissage
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-┌[fullgreen@git]-(~)
-└> mefetch
+- C 💻
+- C++ 🔧
+- Java ☕
+- HTML 📝
+- CSS 🎨
+- JavaScript 🚀
+
+## 📚 Formation
+Actuellement en formation d'informatique, je développe mes compétences en programmation et explore différents langages.
+
+## 💡 Objectifs
+- Approfondir mes connaissances en développement
+- Participer à des projets collaboratifs
+- Créer des applications innovantes
+
+## 📫 Contact
+N'hésitez pas à me contacter pour collaborer sur des projets ou échanger !
+@wilohx on Discord.
+
+---
+⭐ *En constant apprentissage et développement* ⭐
