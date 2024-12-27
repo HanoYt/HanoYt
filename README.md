@@ -7,5 +7,8 @@
 - Java ☕
 - HTML/CSS/JS 🚀
 
+## 📫 Contact
+@wilohx on Discord, i don't bite..
+
 ---
 🌱 *En constant apprentissage*
