@@ -8,7 +8,8 @@
 - HTML/CSS/JS 🚀
 
 ## 📫 Contact
-[@wilohx](https://discord.com/users/wilohx) and [website](https://wiloh.me) 
+- [@wilohx](https://discord.com/users/wilohx) on discord
+- [website](https://wiloh.me) for my website
 
 ---
 🌱 *Always learning*
