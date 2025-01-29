@@ -9,6 +9,7 @@
 
 ## 📫 Contact
 [@wilohx](https://discord.com/users/wilohx) on Discord, i don't bite..
+[website](https://wiloh.me) 
 
 ---
 🌱 *Always learning*
