@@ -47,17 +47,6 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/cisco.svg" alt="ccie" width="40" height="40"/>
 </a>
 
-- CCNA  
-- ITIL 4 Foundation
-- RHCSA (EX200)
-- Terraform Associate (003)
-- Security+ (SY0-701)
-- CKA
-
-And
-- CCNP Enterprise
-- CCIE 
-
 - <h3 align="left">Langages et outils :</h3>
 <p align="center"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
