@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Noah
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=legoshiifr&label=Profile%20views&color=0e75b6&style=flat" alt="legoshiifr" /> </p>
 
 🎓 Computer Science Student
 
@@ -6,7 +7,6 @@
 - C/C++ 🔧
 - Java ☕
 - HTML/CSS/JS 🚀
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=legoshiifr&label=Profile%20views&color=0e75b6&style=flat" alt="legoshiifr" /> </p>
 
 ## 📫 Contact
 - [@wilohx](https://discord.com/users/wilohx) on discord
