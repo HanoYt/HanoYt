@@ -29,7 +29,7 @@
 
 <!-- Security+ (SY0-701) -->
 <a href="https://www.comptia.org/en-us/certifications/security/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" alt="security-plus-sy0-701" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/comptia.svg" alt="comptia-security-plus" width="40" height="40"/>
 </a>
 
 <!-- CKA -->
