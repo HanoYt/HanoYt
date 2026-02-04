@@ -9,7 +9,7 @@
 
 <!-- CCNA -->
 <a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" alt="ccna" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/cisco.svg" alt="ccna" width="40" height="40"/>
 </a>
 
 <!-- ITIL 4 Foundation -->
