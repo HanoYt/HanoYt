@@ -4,6 +4,49 @@
 🎓 Computer Science Student
 
 ## 💻 Currently Learning
+
+<!-- Certifications -->
+
+<!-- CCNA -->
+<a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" alt="ccna" width="40" height="40"/>
+</a>
+
+<!-- ITIL 4 Foundation -->
+<a href="https://www.peoplecert.org/browse-certifications/it-governance-and-service-management/ITIL-1/itil-4-foundation-2565" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="itil-4-foundation" width="40" height="40"/>
+</a>
+
+<!-- RHCSA (EX200) -->
+<a href="https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="rhcsa-ex200" width="40" height="40"/>
+</a>
+
+<!-- Terraform Associate (003) -->
+<a href="https://developer.hashicorp.com/certifications/infrastructure-automation" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform-associate-003" width="40" height="40"/>
+</a>
+
+<!-- Security+ (SY0-701) -->
+<a href="https://www.comptia.org/en-us/certifications/security/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" alt="security-plus-sy0-701" width="40" height="40"/>
+</a>
+
+<!-- CKA -->
+<a href="https://www.cncf.io/training/certification/cka/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="cka" width="40" height="40"/>
+</a>
+
+<!-- CCNP Enterprise -->
+<a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccnp-enterprise/index.html" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" alt="ccnp-enterprise" width="40" height="40"/>
+</a>
+
+<!-- CCIE (ex: Enterprise Infrastructure) -->
+<a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/expert/exams-training.html" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" alt="ccie" width="40" height="40"/>
+</a>
+
 - CCNA  
 - ITIL 4 Foundation
 - RHCSA (EX200)
@@ -16,7 +59,8 @@ And
 - CCIE 
 
 - <h3 align="left">Langages et outils :</h3>
-<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+<p align="center"> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
