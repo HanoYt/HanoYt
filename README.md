@@ -33,7 +33,7 @@
 <br>
 
 ## 📫 Contact
-- [@wilohx](https://discord.com/users/wilohx) on discord
+- [@wilohx](https://discord.com/users/noahlux1) on discord
 - [website](https://wiloh.me) for my website
 
 ---
