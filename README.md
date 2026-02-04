@@ -5,7 +5,8 @@
 
 ## 💻 Currently Learning
 
-<!-- Certifications -->
+- <h3 align="left">Certifications :</h3>
+<p align="center">
 
 <!-- CCNA -->
 <a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html" target="_blank" rel="noreferrer">
