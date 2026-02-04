@@ -39,12 +39,12 @@
 
 <!-- CCNP Enterprise -->
 <a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccnp-enterprise/index.html" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" alt="ccnp-enterprise" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/cisco.svg" alt="ccnp-enterprise" width="40" height="40"/>
 </a>
 
 <!-- CCIE -->
 <a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/expert/exams-training.html" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" alt="ccie" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/cisco.svg" alt="ccie" width="40" height="40"/>
 </a>
 
 - CCNA  
