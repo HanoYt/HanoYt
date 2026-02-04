@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Noah
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=legoshiifr&label=Profile%20views&color=0e75b6&style=flat" alt="legoshiifr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HanoYt&label=Profile%20views&color=0e75b6&style=flat" alt="HanoYt" /> </p>
 
 🎓 Computer Science Student
 
