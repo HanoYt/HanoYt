@@ -9,7 +9,7 @@
 
 <!-- CCNA -->
 <a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" alt="ccna" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/meraki/meraki-original.svg" alt="ccna" width="40" height="40"/>
 </a>
 
 <!-- ITIL 4 Foundation -->
@@ -39,12 +39,12 @@
 
 <!-- CCNP Enterprise -->
 <a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccnp-enterprise/index.html" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" alt="ccnp-enterprise" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/meraki/meraki-original.svg" alt="ccnp-enterprise" width="40" height="40"/>
 </a>
 
-<!-- CCIE (ex: Enterprise Infrastructure) -->
+<!-- CCIE (page expert globale) -->
 <a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/expert/exams-training.html" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" alt="ccie" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/meraki/meraki-original.svg" alt="ccie" width="40" height="40"/>
 </a>
 
 - CCNA  
